@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">androidbootcampday2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="add_item">Add Item</string>
+</resources>
